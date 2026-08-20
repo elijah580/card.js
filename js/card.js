@@ -56,8 +56,8 @@ document.addEventListener("DOMContentLoaded", function () {
         flashCard4.classList.remove("show");
         flashCard5.classList.remove("show");
         flashCard6.classList.remove("show");
-        change();
         flashCard2.classList.toggle("show");
+        change();
         
     });
 
@@ -69,9 +69,8 @@ document.addEventListener("DOMContentLoaded", function () {
         flashCard4.classList.remove("show");
         flashCard5.classList.remove("show");
         flashCard6.classList.remove("show");
-        flashCard2.classList.toggle("show");
-        change();
         flashCard3.classList.toggle("show");
+        change();
     });
 
 
@@ -82,8 +81,8 @@ document.addEventListener("DOMContentLoaded", function () {
         flashCard2.classList.remove("show");
         flashCard5.classList.remove("show");
         flashCard6.classList.remove("show");
-        change();
         flashCard4.classList.toggle("show");
+        change();
 
     });
 
@@ -95,8 +94,8 @@ document.addEventListener("DOMContentLoaded", function () {
         flashCard4.classList.remove("show");
         flashCard2.classList.remove("show");
         flashCard6.classList.remove("show");
-        change();
         flashCard5.classList.toggle("show");
+        change();
     });
 
 
@@ -106,8 +105,8 @@ document.addEventListener("DOMContentLoaded", function () {
         flashCard3.classList.remove("show");
         flashCard4.classList.remove("show");
         flashCard5.classList.remove("show");
-        change();
         flashCard6.classList.toggle("show");
+        change();
     });
 
 });
