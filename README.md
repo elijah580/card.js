@@ -4,6 +4,10 @@
 
 A small, responsive study-card project covering core JavaScript and jQuery concepts. Each card starts with its definition hidden. Selecting a card reveals its definition and updates the button to `Hide Answer`.
 
+## Preview
+
+Open the [flash-card preview](card.html) in a browser to view and interact with the project.
+
 ## Features
 
 - Six programming flash cards
@@ -98,8 +102,8 @@ Update the color, spacing, typography, and responsive layout rules in `css/card.
 
 ## License
 
-No license has been specified for this project.
+MIT.
 
 ## Contact
 
-- **Contact:** No contact information has been provided for this project.
+- **Contact: 080557325,08053011613**.
