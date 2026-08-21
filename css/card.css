@@ -17,7 +17,7 @@ body {
     padding: 24px 16px 50px;
 }
 
-/* Heading box */
+
 
 .heading-boxx {
     width: 100%;
@@ -56,7 +56,7 @@ body {
     line-height: 1.5;
 }
 
-/* Cards grid */
+
 
 .cards-grid {
     width: 100%;
@@ -67,7 +67,7 @@ body {
     gap: 20px;
 }
 
-/* Flash card */
+
 
 .flash-card {
     width: 100%;
@@ -108,7 +108,7 @@ body {
     text-align: center;
 }
 
-/* Description is hidden until the card gets the .show class */
+
 
 .card-description {
     font-size: 14px;
@@ -131,7 +131,7 @@ body {
     margin-top: 4px;
 }
 
-/* Reveal button */
+
 
 .card-btn {
     margin-top: 6px;
@@ -165,6 +165,8 @@ body {
 .flash-card.show .card-btn:hover {
     background-color: #334155;
 }
+
+
 * {
     padding: 0;
     margin: 0;
@@ -198,7 +200,7 @@ body {
     overflow-wrap: break-word;
 }
 
-/* Heading box */
+
 
 .heading-boxx {
     width: 100%;
@@ -237,7 +239,7 @@ body {
     line-height: 1.5;
 }
 
-/* Cards grid */
+
 
 .cards-grid {
     width: 100%;
@@ -248,7 +250,7 @@ body {
     gap: 20px;
 }
 
-/* Flash card */
+
 
 .flash-card {
     width: 100%;
@@ -289,7 +291,7 @@ body {
     text-align: center;
 }
 
-/* Description is hidden until the card gets the .show class */
+
 
 .card-description {
     font-size: 14px;
@@ -312,7 +314,7 @@ body {
     margin-top: 4px;
 }
 
-/* Reveal button */
+
 
 .card-btn {
     margin-top: 6px;
@@ -349,7 +351,7 @@ body {
 
 /* ===== Responsiveness ===== */
 
-/* Tablets and small laptops */
+
 @media (max-width: 768px) {
     .cards-grid {
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
